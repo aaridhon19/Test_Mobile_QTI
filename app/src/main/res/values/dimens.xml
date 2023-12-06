@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_top_with_error">40dp</dimen>
+    <dimen name="margin_top_without_error">18dp</dimen>
+
+    <dimen name="errorTextSize">4.5sp</dimen>
+
+    <color name="errorText">#FF434D</color>
+
+</resources>

@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Test Mobile QTI</string>
+
+    //LoginPage
+    <string name="heading_one">Welcome back!</string>
+    <string name="heading_two">You\'ve been missed,</string>
+    <string name="heading_three">Please sign in your account</string>
+    <string name="form_email">Email</string>
+    <string name="form_password">Password</string>
+    <string name="button_login">Login</string>
+
+    //HomePage
+    <string name="test_qti_home">TEST QTI</string>
+    <string name="logout_home">Logout</string>
+    <string name="name_user">Adam</string>
+    <string name="name_email_user">adamrizqi.arr@gmail.com</string>
+    <string name="status_home">Status</string>
+    <string name="asset_sold">Asset \nSold</string>
+    <string name="asset_in_stock">Asset in \nStock</string>
+    <string name="expired_asset">Expired \nAsset</string>
+    <string name="chart_home">Chart</string>
+    <string name="sold_chart">Sold</string>
+    <string name="stock_chart">Stock</string>
+    <string name="expired_chart">Expired</string>
+    <string name="location_home">Location</string>
+    <string name="gudang_location">Gudang</string>
+    <string name="rak_location">Rak Penjualan</string>
+    <string name="some_id_chart_status">12\n\n\n\n10\n\n\n\n6\n\n\n\n4\n\n\n\n0</string>
+    <string name="some_id_chart_location">20\n\n\n\n18\n\n\n\n10\n\n\n\n6\n\n\n\n0</string>
+    <string name="home">Home</string>
+    <string name="asset">Asset</string>
+
+    //InputPage
+    <string name="heading_title_input">Input Asset</string>
+    <string name="heading_input">Fill this form \nbelow</string>
+    <string name="asset_name_input">Asset Name</string>
+    <string name="input_name">Input name</string>
+    <string name="status_input">Status</string>
+    <string name="select_status">Select status</string>
+    <string name="location_input">Location</string>
+    <string name="select_location">Select location</string>
+    <string name="save_update_input">Submit</string>
+
+    //ListPage
+    <string name="list_asset">List Asset</string>
+    <string name="search_asset">Search Asset</string>
+    <string name="name_asset">Asset Name</string>
+    <string name="product_asset">Asset Produk</string>
+
+    //EditPage
+    <string name="heading_title_edit">Edit Asset</string>
+    <string name="heading_edit">Edit this form \nbelow</string>
+    <string name="asset_name_edit">Asset Name</string>
+    <string name="status_edit">Status</string>
+    <string name="location_edit">Location</string>
+    <string name="delete_edit">Delete</string>
+    <string name="save_update_edit">Save Update</string>
+
+    //DialogSuccessInput
+    <string name="title_dialog_success">Success!</string>
+    <string name="content_dialog_success">This is the content of dialog.</string>
+
+    //DialogQuestion
+    <string name="title_dialog_question">Dialog Title</string>
+    <string name="content_dialog_question">This is the content of dialog.</string>
+    <string name="cancel_dialog_question">Cancel</string>
+    <string name="confirm_dialog_question">Confirm</string>
+
+</resources>
